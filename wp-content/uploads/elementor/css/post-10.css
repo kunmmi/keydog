@@ -1,0 +1,1180 @@
+.elementor-10 .elementor-element.elementor-element-bbdd45b {
+    --display: flex;
+    --min-height: 100vh;
+    --flex-direction: column;
+    --container-widget-width: 100%;
+    --container-widget-height: initial;
+    --container-widget-flex-grow: 0;
+    --container-widget-align-self: initial;
+    --flex-wrap-mobile: wrap;
+    --justify-content: flex-start;
+    --background-transition: 0.3s;
+    --padding-top: 0px;
+    --padding-bottom: 0px;
+    --padding-left: 0px;
+    --padding-right: 0px;
+}
+
+.elementor-10 .elementor-element.elementor-element-bbdd45b:not(.elementor-motion-effects-element-type-background),
+.elementor-10 .elementor-element.elementor-element-bbdd45b>.elementor-motion-effects-container>.elementor-motion-effects-layer {
+    background-color: #0052FE;
+}
+
+.elementor-10 .elementor-element.elementor-element-bbdd45b,
+.elementor-10 .elementor-element.elementor-element-bbdd45b::before {
+    --border-transition: 0.3s;
+}
+
+.elementor-10 .elementor-element.elementor-element-435ec89 {
+    --display: flex;
+    --gap: 0px 0px;
+    --background-transition: 0.3s;
+}
+
+.elementor-10 .elementor-element.elementor-element-8bb2638 {
+    --display: flex;
+    --flex-direction: row;
+    --container-widget-width: initial;
+    --container-widget-height: 100%;
+    --container-widget-flex-grow: 1;
+    --container-widget-align-self: stretch;
+    --flex-wrap-mobile: wrap;
+    --background-transition: 0.3s;
+    --padding-top: 0px;
+    --padding-bottom: 0px;
+    --padding-left: 0px;
+    --padding-right: 0px;
+}
+
+.elementor-10 .elementor-element.elementor-element-191a851 {
+    --display: flex;
+    --flex-direction: row;
+    --container-widget-width: initial;
+    --container-widget-height: 100%;
+    --container-widget-flex-grow: 1;
+    --container-widget-align-self: stretch;
+    --flex-wrap-mobile: wrap;
+    --background-transition: 0.3s;
+    --padding-top: 0px;
+    --padding-bottom: 0px;
+    --padding-left: 0px;
+    --padding-right: 0px;
+}
+
+.elementor-10 .elementor-element.elementor-element-191a851.e-con {
+    --align-self: center;
+}
+
+.elementor-widget-heading .elementor-heading-title {
+    color: var( --e-global-color-primary);
+    font-family: var( --e-global-typography-primary-font-family), Sans-serif;
+    font-weight: var( --e-global-typography-primary-font-weight);
+}
+
+.elementor-10 .elementor-element.elementor-element-a4d3809.elementor-element {
+    --align-self: flex-start;
+}
+
+.elementor-10 .elementor-element.elementor-element-a4d3809 .elementor-heading-title {
+    color: #FFFFFF;
+    font-family: "Encode Sans", Sans-serif;
+    font-size: 15px;
+    font-weight: 600;
+    text-transform: uppercase;
+}
+
+.elementor-10 .elementor-element.elementor-element-ced33ee.elementor-element {
+    --align-self: flex-start;
+}
+
+.elementor-10 .elementor-element.elementor-element-ced33ee .elementor-heading-title {
+    color: #FFFFFF;
+    font-family: "Encode Sans", Sans-serif;
+    font-size: 15px;
+    font-weight: 600;
+    text-transform: uppercase;
+}
+
+.elementor-10 .elementor-element.elementor-element-3c691df.elementor-element {
+    --align-self: flex-start;
+}
+
+.elementor-10 .elementor-element.elementor-element-3c691df .elementor-heading-title {
+    color: #FFFFFF;
+    font-family: "Encode Sans", Sans-serif;
+    font-size: 15px;
+    font-weight: 600;
+    text-transform: uppercase;
+}
+
+.elementor-10 .elementor-element.elementor-element-bdc59bc.elementor-element {
+    --align-self: flex-start;
+}
+
+.elementor-10 .elementor-element.elementor-element-bdc59bc .elementor-heading-title {
+    color: #FFFFFF;
+    font-family: "Encode Sans", Sans-serif;
+    font-size: 15px;
+    font-weight: 600;
+    text-transform: uppercase;
+}
+
+.elementor-10 .elementor-element.elementor-element-ce00316 {
+    --display: flex;
+    --justify-content: center;
+    --background-transition: 0.3s;
+    --padding-top: 0px;
+    --padding-bottom: 0px;
+    --padding-left: 0px;
+    --padding-right: 0px;
+}
+
+.elementor-10 .elementor-element.elementor-element-ce00316.e-con {
+    --align-self: center;
+}
+
+.elementor-10 .elementor-element.elementor-element-d13d4f1.elementor-element {
+    --align-self: flex-end;
+}
+
+.elementor-10 .elementor-element.elementor-element-d13d4f1 .elementor-button .elementor-align-icon-right {
+    margin-left: 0px;
+}
+
+.elementor-10 .elementor-element.elementor-element-d13d4f1 .elementor-button .elementor-align-icon-left {
+    margin-right: 0px;
+}
+
+.elementor-10 .elementor-element.elementor-element-d13d4f1 .elementor-button .elementor-button-icon {
+    font-size: 20px;
+}
+
+.elementor-10 .elementor-element.elementor-element-d13d4f1 a.elementor-button,
+.elementor-10 .elementor-element.elementor-element-d13d4f1 .elementor-button {
+    font-family: "Encode Sans", Sans-serif;
+    font-size: 14px;
+    font-weight: 700;
+    text-transform: uppercase;
+    line-height: 36px;
+    background-color: #02010100;
+    padding: 0px 0px 0px 0px;
+}
+
+.elementor-widget-divider {
+    --divider-color: var( --e-global-color-secondary);
+}
+
+.elementor-widget-divider .elementor-divider__text {
+    color: var( --e-global-color-secondary);
+    font-family: var( --e-global-typography-secondary-font-family), Sans-serif;
+    font-weight: var( --e-global-typography-secondary-font-weight);
+}
+
+.elementor-widget-divider.elementor-view-stacked .elementor-icon {
+    background-color: var( --e-global-color-secondary);
+}
+
+.elementor-widget-divider.elementor-view-framed .elementor-icon,
+.elementor-widget-divider.elementor-view-default .elementor-icon {
+    color: var( --e-global-color-secondary);
+    border-color: var( --e-global-color-secondary);
+}
+
+.elementor-widget-divider.elementor-view-framed .elementor-icon,
+.elementor-widget-divider.elementor-view-default .elementor-icon svg {
+    fill: var( --e-global-color-secondary);
+}
+
+.elementor-10 .elementor-element.elementor-element-f049dec {
+    --divider-border-style: solid;
+    --divider-color: #FFFFFF;
+    --divider-border-width: 2.5px;
+}
+
+.elementor-10 .elementor-element.elementor-element-f049dec .elementor-divider-separator {
+    width: 100%;
+    margin: 0 auto;
+    margin-center: 0;
+}
+
+.elementor-10 .elementor-element.elementor-element-f049dec .elementor-divider {
+    text-align: center;
+    padding-block-start: 22px;
+    padding-block-end: 22px;
+}
+
+.elementor-10 .elementor-element.elementor-element-46c3acd {
+    --display: flex;
+    --flex-direction: row;
+    --container-widget-width: initial;
+    --container-widget-height: 100%;
+    --container-widget-flex-grow: 1;
+    --container-widget-align-self: stretch;
+    --flex-wrap-mobile: wrap;
+    --background-transition: 0.3s;
+    --padding-top: 0px;
+    --padding-bottom: 0px;
+    --padding-left: 0px;
+    --padding-right: 0px;
+}
+
+.elementor-10 .elementor-element.elementor-element-8e27f1c {
+    --display: flex;
+    --flex-direction: row;
+    --container-widget-width: initial;
+    --container-widget-height: 100%;
+    --container-widget-flex-grow: 1;
+    --container-widget-align-self: stretch;
+    --flex-wrap-mobile: wrap;
+    --background-transition: 0.3s;
+    --padding-top: 0px;
+    --padding-bottom: 0px;
+    --padding-left: 0px;
+    --padding-right: 0px;
+}
+
+.elementor-10 .elementor-element.elementor-element-8e27f1c.e-con {
+    --align-self: center;
+}
+
+.elementor-10 .elementor-element.elementor-element-248d5a8 {
+    --spacer-size: 0px;
+}
+
+.elementor-10 .elementor-element.elementor-element-6c5d634 {
+    --display: flex;
+    --background-transition: 0.3s;
+    --padding-top: 0px;
+    --padding-bottom: 0px;
+    --padding-left: 0px;
+    --padding-right: 0px;
+}
+
+.elementor-10 .elementor-element.elementor-element-3b580d9 {
+    --grid-template-columns: repeat(0, auto);
+    --grid-column-gap: 10px;
+    --grid-row-gap: 0px;
+}
+
+.elementor-10 .elementor-element.elementor-element-3b580d9 .elementor-widget-container {
+    text-align: right;
+}
+
+.elementor-10 .elementor-element.elementor-element-3b580d9 .elementor-social-icon {
+    background-color: #02010100;
+    --icon-padding: 0em;
+}
+
+.elementor-10 .elementor-element.elementor-element-cd71feb {
+    --display: flex;
+    --flex-direction: row;
+    --container-widget-width: initial;
+    --container-widget-height: 100%;
+    --container-widget-flex-grow: 1;
+    --container-widget-align-self: stretch;
+    --flex-wrap-mobile: wrap;
+    --background-transition: 0.3s;
+    --padding-top: 0px;
+    --padding-bottom: 0px;
+    --padding-left: 0px;
+    --padding-right: 0px;
+}
+
+.elementor-10 .elementor-element.elementor-element-0842db4 {
+    --display: flex;
+    --justify-content: center;
+    --background-transition: 0.3s;
+    --padding-top: 0px;
+    --padding-bottom: 0px;
+    --padding-left: 0px;
+    --padding-right: 0px;
+}
+
+.elementor-10 .elementor-element.elementor-element-0842db4.e-con {
+    --flex-grow: 0;
+    --flex-shrink: 0;
+}
+
+.elementor-widget-image .widget-image-caption {
+    color: var( --e-global-color-text);
+    font-family: var( --e-global-typography-text-font-family), Sans-serif;
+    font-weight: var( --e-global-typography-text-font-weight);
+}
+
+.elementor-10 .elementor-element.elementor-element-fca9f27>.elementor-widget-container {
+    --e-transform-translateX: 60%;
+    --e-transform-scale: 3;
+    margin: 0% 0% 0% 0%;
+}
+
+.elementor-10 .elementor-element.elementor-element-fca9f27 img {
+    width: 100%;
+}
+
+.elementor-10 .elementor-element.elementor-element-08934f0 {
+    --display: flex;
+    --justify-content: center;
+    --align-items: center;
+    --container-widget-width: calc( ( 1 - var( --container-widget-flex-grow)) * 100%);
+    --gap: 10px 10px;
+    --background-transition: 0.3s;
+}
+
+.elementor-10 .elementor-element.elementor-element-08934f0.e-con {
+    --align-self: center;
+}
+
+.elementor-10 .elementor-element.elementor-element-93a66e7 {
+    text-align: center;
+}
+
+.elementor-10 .elementor-element.elementor-element-93a66e7 img {
+    width: 12%;
+    border-radius: 12px 12px 12px 12px;
+}
+
+.elementor-10 .elementor-element.elementor-element-f20347e {
+    --display: flex;
+    --flex-direction: row;
+    --container-widget-width: calc( ( 1 - var( --container-widget-flex-grow)) * 100%);
+    --container-widget-height: 100%;
+    --container-widget-flex-grow: 1;
+    --container-widget-align-self: stretch;
+    --flex-wrap-mobile: wrap;
+    --justify-content: center;
+    --align-items: center;
+    --gap: 10px 10px;
+    --background-transition: 0.3s;
+}
+
+.elementor-10 .elementor-element.elementor-element-f20347e.e-con {
+    --align-self: center;
+}
+
+.elementor-10 .elementor-element.elementor-element-05ea355 {
+    width: initial;
+    max-width: initial;
+    text-align: right;
+}
+
+.elementor-10 .elementor-element.elementor-element-05ea355>.elementor-widget-container {
+    padding: 0px 0px 0px 0px;
+}
+
+.elementor-10 .elementor-element.elementor-element-05ea355.elementor-element {
+    --align-self: center;
+}
+
+.elementor-10 .elementor-element.elementor-element-05ea355 img {
+    width: 100%;
+    height: 4vh;
+    border-style: solid;
+    border-color: #FFFFFF;
+    border-radius: 224px 224px 224px 224px;
+}
+
+.elementor-10 .elementor-element.elementor-element-23cb875>.elementor-widget-container {
+    margin: 2px 0px 0px 0px;
+}
+
+.elementor-10 .elementor-element.elementor-element-23cb875 .elementor-heading-title {
+    font-family: "Pixefont", Sans-serif;
+    font-weight: 600;
+    line-height: 40px;
+    letter-spacing: 1.1px;
+}
+
+.elementor-widget-icon.elementor-view-stacked .elementor-icon {
+    background-color: var( --e-global-color-primary);
+}
+
+.elementor-widget-icon.elementor-view-framed .elementor-icon,
+.elementor-widget-icon.elementor-view-default .elementor-icon {
+    color: var( --e-global-color-primary);
+    border-color: var( --e-global-color-primary);
+}
+
+.elementor-widget-icon.elementor-view-framed .elementor-icon,
+.elementor-widget-icon.elementor-view-default .elementor-icon svg {
+    fill: var( --e-global-color-primary);
+}
+
+.elementor-10 .elementor-element.elementor-element-d7fe47a>.elementor-widget-container {
+    margin: 0px 0px -8px 0px;
+}
+
+.elementor-10 .elementor-element.elementor-element-d7fe47a .elementor-icon-wrapper {
+    text-align: center;
+}
+
+.elementor-10 .elementor-element.elementor-element-d7fe47a .elementor-icon {
+    font-size: 31px;
+}
+
+.elementor-10 .elementor-element.elementor-element-d7fe47a .elementor-icon svg {
+    height: 31px;
+}
+
+.elementor-10 .elementor-element.elementor-element-d7fe47a .elementor-icon-wrapper svg {
+    width: 100%;
+}
+
+.elementor-10 .elementor-element.elementor-element-125b92b.elementor-element {
+    --align-self: center;
+}
+
+.elementor-10 .elementor-element.elementor-element-125b92b .elementor-heading-title {
+    color: #FFFFFF;
+    font-family: "Encode Sans", Sans-serif;
+    font-size: 24px;
+    font-weight: 600;
+    text-transform: uppercase;
+    line-height: 40px;
+}
+
+.elementor-10 .elementor-element.elementor-element-21a01a3 {
+    text-align: center;
+}
+
+.elementor-10 .elementor-element.elementor-element-21a01a3 .elementor-heading-title {
+    color: #FFFFFF;
+    font-family: "Pixefont", Sans-serif;
+    font-size: 8rem;
+    font-weight: 400;
+    text-transform: uppercase;
+    line-height: 7rem;
+}
+
+.elementor-10 .elementor-element.elementor-element-84a53b3.elementor-element {
+    --align-self: center;
+}
+
+.elementor-10 .elementor-element.elementor-element-84a53b3 {
+    text-align: center;
+}
+
+.elementor-10 .elementor-element.elementor-element-84a53b3 .elementor-heading-title {
+    color: #FFFFFF;
+    font-family: "Encode Sans", Sans-serif;
+    font-size: 15px;
+    font-weight: 600;
+    text-transform: uppercase;
+}
+
+.elementor-widget-button .elementor-button {
+    background-color: var( --e-global-color-accent);
+    font-family: var( --e-global-typography-accent-font-family), Sans-serif;
+    font-weight: var( --e-global-typography-accent-font-weight);
+}
+
+.elementor-10 .elementor-element.elementor-element-be83de6 .elementor-button {
+    background-color: #FFFFFF;
+    font-family: "Pixefont", Sans-serif;
+    font-weight: 700;
+    fill: #0052FE;
+    color: #0052FE;
+    border-radius: 60px 60px 60px 60px;
+    padding: 1rem 5rem 1rem 5rem;
+}
+
+.elementor-10 .elementor-element.elementor-element-be83de6>.elementor-widget-container {
+    margin: 20% 0% 0% 0%;
+}
+
+.elementor-10 .elementor-element.elementor-element-3bb2177>.elementor-widget-container {
+    margin: 5% 0% 0% 0%;
+}
+
+.elementor-10 .elementor-element.elementor-element-3bb2177.elementor-element {
+    --align-self: center;
+}
+
+.elementor-10 .elementor-element.elementor-element-3bb2177 {
+    text-align: center;
+}
+
+.elementor-10 .elementor-element.elementor-element-3bb2177 .elementor-heading-title {
+    color: #FFFFFF;
+    font-family: "Encode Sans", Sans-serif;
+    font-size: 12px;
+    font-weight: 300;
+    text-transform: uppercase;
+}
+
+.elementor-10 .elementor-element.elementor-element-ea2e8fe>.elementor-widget-container {
+    margin: 20% 0% 0% 0%;
+}
+
+.elementor-10 .elementor-element.elementor-element-ea2e8fe.elementor-element {
+    --align-self: center;
+}
+
+.elementor-10 .elementor-element.elementor-element-ea2e8fe {
+    text-align: center;
+}
+
+.elementor-10 .elementor-element.elementor-element-ea2e8fe .elementor-heading-title {
+    color: #FFFFFF;
+    font-family: "Pixefont", Sans-serif;
+    font-size: 12px;
+    font-weight: 300;
+    text-transform: uppercase;
+}
+
+.elementor-10 .elementor-element.elementor-element-e437cf3 .elementor-repeater-item-00c6570.elementor-social-icon {
+    background-color: #279ED9;
+}
+
+.elementor-10 .elementor-element.elementor-element-e437cf3 .elementor-repeater-item-3dc2b2f.elementor-social-icon {
+    background-color: #000000;
+}
+
+.elementor-10 .elementor-element.elementor-element-e437cf3 .elementor-repeater-item-e93c440.elementor-social-icon {
+    background-color: #FFFFFF;
+}
+
+.elementor-10 .elementor-element.elementor-element-e437cf3 {
+    --grid-template-columns: repeat(0, auto);
+    --grid-column-gap: 10px;
+    --grid-row-gap: 0px;
+}
+
+.elementor-10 .elementor-element.elementor-element-e437cf3 .elementor-widget-container {
+    text-align: right;
+}
+
+.elementor-10 .elementor-element.elementor-element-e437cf3>.elementor-widget-container {
+    margin: 10% 0% 0% 0%;
+}
+
+.elementor-10 .elementor-element.elementor-element-e437cf3 .elementor-social-icon {
+    --icon-padding: 0.4em;
+}
+
+.elementor-10 .elementor-element.elementor-element-e437cf3 .elementor-icon {
+    border-radius: 119px 119px 119px 119px;
+}
+
+.elementor-10 .elementor-element.elementor-element-4cd33a5 {
+    --display: flex;
+    --justify-content: center;
+    --background-transition: 0.3s;
+    --margin-top: 0%;
+    --margin-bottom: 20%;
+    --margin-left: 0%;
+    --margin-right: 0%;
+    --padding-top: 0px;
+    --padding-bottom: 0px;
+    --padding-left: 0px;
+    --padding-right: 0px;
+}
+
+.elementor-10 .elementor-element.elementor-element-6da7e61>.elementor-widget-container {
+    --e-transform-translateX: -29px;
+    --e-transform-scale: 2.5;
+}
+
+.elementor-10 .elementor-element.elementor-element-6da7e61 img {
+    width: 100%;
+}
+
+.elementor-10 .elementor-element.elementor-element-42eb4eb {
+    --display: flex;
+    --flex-direction: row;
+    --container-widget-width: initial;
+    --container-widget-height: 100%;
+    --container-widget-flex-grow: 1;
+    --container-widget-align-self: stretch;
+    --flex-wrap-mobile: wrap;
+    --background-transition: 0.3s;
+    --padding-top: 5%;
+    --padding-bottom: 5%;
+    --padding-left: 5%;
+    --padding-right: 5%;
+}
+
+.elementor-10 .elementor-element.elementor-element-75e342d {
+    --display: flex;
+    --flex-direction: column;
+    --container-widget-width: 100%;
+    --container-widget-height: initial;
+    --container-widget-flex-grow: 0;
+    --container-widget-align-self: initial;
+    --flex-wrap-mobile: wrap;
+    --background-transition: 0.3s;
+}
+
+.elementor-10 .elementor-element.elementor-element-9bcceb2 {
+    text-align: left;
+}
+
+.elementor-10 .elementor-element.elementor-element-9bcceb2 .elementor-heading-title {
+    color: #000000;
+    font-family: "Pixefont", Sans-serif;
+    font-size: 3rem;
+    font-weight: 400;
+    text-transform: uppercase;
+}
+
+.elementor-widget-text-editor {
+    color: var( --e-global-color-text);
+    font-family: var( --e-global-typography-text-font-family), Sans-serif;
+    font-weight: var( --e-global-typography-text-font-weight);
+}
+
+.elementor-widget-text-editor.elementor-drop-cap-view-stacked .elementor-drop-cap {
+    background-color: var( --e-global-color-primary);
+}
+
+.elementor-widget-text-editor.elementor-drop-cap-view-framed .elementor-drop-cap,
+.elementor-widget-text-editor.elementor-drop-cap-view-default .elementor-drop-cap {
+    color: var( --e-global-color-primary);
+    border-color: var( --e-global-color-primary);
+}
+
+.elementor-10 .elementor-element.elementor-element-3411a5d {
+    width: var( --container-widget-width, 95%);
+    max-width: 95%;
+    --container-widget-width: 95%;
+    --container-widget-flex-grow: 0;
+    color: #000000;
+    font-family: "Roboto", Sans-serif;
+    font-size: 30px;
+    font-weight: 300;
+    line-height: 31px;
+}
+
+.elementor-10 .elementor-element.elementor-element-3411a5d.elementor-element {
+    --align-self: flex-start;
+}
+
+.elementor-10 .elementor-element.elementor-element-1053158 {
+    --display: flex;
+    --flex-direction: column;
+    --container-widget-width: 100%;
+    --container-widget-height: initial;
+    --container-widget-flex-grow: 0;
+    --container-widget-align-self: initial;
+    --flex-wrap-mobile: wrap;
+    --background-transition: 0.3s;
+}
+
+.elementor-10 .elementor-element.elementor-element-1053158.e-con {
+    --align-self: center;
+}
+
+.elementor-10 .elementor-element.elementor-element-2306a4f>.elementor-widget-container {
+    border-radius: 26px 26px 26px 26px;
+}
+
+.elementor-10 .elementor-element.elementor-element-2306a4f .elementor-wrapper {
+    --video-aspect-ratio: 1.77777;
+}
+
+.elementor-10 .elementor-element.elementor-element-77781ee {
+    --display: flex;
+    --flex-direction: row;
+    --container-widget-width: initial;
+    --container-widget-height: 100%;
+    --container-widget-flex-grow: 1;
+    --container-widget-align-self: stretch;
+    --flex-wrap-mobile: wrap;
+    --background-transition: 0.3s;
+    --padding-top: 5%;
+    --padding-bottom: 5%;
+    --padding-left: 5%;
+    --padding-right: 5%;
+}
+
+.elementor-10 .elementor-element.elementor-element-275551f {
+    --display: flex;
+    --flex-direction: column;
+    --container-widget-width: 100%;
+    --container-widget-height: initial;
+    --container-widget-flex-grow: 0;
+    --container-widget-align-self: initial;
+    --flex-wrap-mobile: wrap;
+    --background-transition: 0.3s;
+}
+
+.elementor-10 .elementor-element.elementor-element-fb26e95 {
+    text-align: left;
+}
+
+.elementor-10 .elementor-element.elementor-element-fb26e95 .elementor-heading-title {
+    color: #000000;
+    font-family: "Pixefont", Sans-serif;
+    font-size: 3rem;
+    font-weight: 400;
+    text-transform: uppercase;
+}
+
+.elementor-10 .elementor-element.elementor-element-5d5b2ef {
+    text-align: center;
+}
+
+.elementor-10 .elementor-element.elementor-element-5d5b2ef img {
+    width: 100%;
+    border-radius: 28px 28px 28px 28px;
+}
+
+.elementor-10 .elementor-element.elementor-element-a6232f3 {
+    width: var( --container-widget-width, 95%);
+    max-width: 95%;
+    --container-widget-width: 95%;
+    --container-widget-flex-grow: 0;
+    color: #000000;
+    font-family: "Roboto", Sans-serif;
+    font-size: 30px;
+    font-weight: 300;
+    line-height: 31px;
+}
+
+.elementor-10 .elementor-element.elementor-element-a6232f3.elementor-element {
+    --align-self: flex-start;
+}
+
+.elementor-10 .elementor-element.elementor-element-a947095 {
+    --display: flex;
+    --flex-direction: row;
+    --container-widget-width: initial;
+    --container-widget-height: 100%;
+    --container-widget-flex-grow: 1;
+    --container-widget-align-self: stretch;
+    --flex-wrap-mobile: wrap;
+    --background-transition: 0.3s;
+    --padding-top: 5%;
+    --padding-bottom: 5%;
+    --padding-left: 5%;
+    --padding-right: 5%;
+}
+
+.elementor-10 .elementor-element.elementor-element-025b01b {
+    --display: flex;
+    --flex-direction: column;
+    --container-widget-width: 100%;
+    --container-widget-height: initial;
+    --container-widget-flex-grow: 0;
+    --container-widget-align-self: initial;
+    --flex-wrap-mobile: wrap;
+    --background-transition: 0.3s;
+}
+
+.elementor-10 .elementor-element.elementor-element-7f455fa {
+    text-align: left;
+}
+
+.elementor-10 .elementor-element.elementor-element-7f455fa .elementor-heading-title {
+    color: #000000;
+    font-family: "Pixefont", Sans-serif;
+    font-size: 3rem;
+    font-weight: 400;
+    text-transform: uppercase;
+}
+
+.elementor-10 .elementor-element.elementor-element-0bfc7de {
+    text-align: left;
+}
+
+.elementor-10 .elementor-element.elementor-element-0bfc7de .elementor-heading-title {
+    color: #000000;
+    font-family: "Pixefont", Sans-serif;
+    font-size: 3rem;
+    font-weight: 400;
+    text-transform: uppercase;
+}
+
+.elementor-10 .elementor-element.elementor-element-713b881 {
+    width: var( --container-widget-width, 95%);
+    max-width: 95%;
+    --container-widget-width: 95%;
+    --container-widget-flex-grow: 0;
+    color: #000000;
+    font-family: "Roboto", Sans-serif;
+    font-size: 30px;
+    font-weight: 300;
+    line-height: 31px;
+}
+
+.elementor-10 .elementor-element.elementor-element-713b881.elementor-element {
+    --align-self: flex-start;
+}
+
+.elementor-10 .elementor-element.elementor-element-e9938ad {
+    --display: flex;
+    --flex-direction: column;
+    --container-widget-width: 100%;
+    --container-widget-height: initial;
+    --container-widget-flex-grow: 0;
+    --container-widget-align-self: initial;
+    --flex-wrap-mobile: wrap;
+    --background-transition: 0.3s;
+}
+
+.elementor-10 .elementor-element.elementor-element-6725c80 {
+    text-align: left;
+}
+
+.elementor-10 .elementor-element.elementor-element-6725c80 .elementor-heading-title {
+    color: #FFFFFF;
+    font-family: "Pixefont", Sans-serif;
+    font-size: 3rem;
+    font-weight: 400;
+    text-transform: uppercase;
+}
+
+.elementor-10 .elementor-element.elementor-element-caec9e8 {
+    text-align: left;
+}
+
+.elementor-10 .elementor-element.elementor-element-caec9e8 .elementor-heading-title {
+    color: #000000;
+    font-family: "Pixefont", Sans-serif;
+    font-size: 3rem;
+    font-weight: 400;
+    text-transform: uppercase;
+    line-height: 2.4rem;
+}
+
+.elementor-10 .elementor-element.elementor-element-6e932f8 {
+    width: var( --container-widget-width, 95%);
+    max-width: 95%;
+    --container-widget-width: 95%;
+    --container-widget-flex-grow: 0;
+    color: #000000;
+    font-family: "Roboto", Sans-serif;
+    font-size: 30px;
+    font-weight: 300;
+    line-height: 31px;
+}
+
+.elementor-10 .elementor-element.elementor-element-6e932f8.elementor-element {
+    --align-self: flex-start;
+}
+
+.elementor-10 .elementor-element.elementor-element-d53c762 {
+    --display: flex;
+    --flex-direction: row;
+    --container-widget-width: initial;
+    --container-widget-height: 100%;
+    --container-widget-flex-grow: 1;
+    --container-widget-align-self: stretch;
+    --flex-wrap-mobile: wrap;
+    --background-transition: 0.3s;
+    --padding-top: 5%;
+    --padding-bottom: 5%;
+    --padding-left: 5%;
+    --padding-right: 5%;
+}
+
+.elementor-10 .elementor-element.elementor-element-88ef678 {
+    --display: flex;
+    --flex-direction: column;
+    --container-widget-width: 100%;
+    --container-widget-height: initial;
+    --container-widget-flex-grow: 0;
+    --container-widget-align-self: initial;
+    --flex-wrap-mobile: wrap;
+    --background-transition: 0.3s;
+}
+
+.elementor-10 .elementor-element.elementor-element-174c009 {
+    text-align: left;
+}
+
+.elementor-10 .elementor-element.elementor-element-174c009 .elementor-heading-title {
+    color: #000000;
+    font-family: "Pixefont", Sans-serif;
+    font-size: 3rem;
+    font-weight: 400;
+    text-transform: uppercase;
+}
+
+.elementor-10 .elementor-element.elementor-element-a530abe {
+    width: var( --container-widget-width, 95%);
+    max-width: 95%;
+    --container-widget-width: 95%;
+    --container-widget-flex-grow: 0;
+    color: #000000;
+    font-family: "Roboto", Sans-serif;
+    font-size: 30px;
+    font-weight: 300;
+    line-height: 31px;
+}
+
+.elementor-10 .elementor-element.elementor-element-a530abe.elementor-element {
+    --align-self: flex-start;
+}
+
+.elementor-10 .elementor-element.elementor-element-9135deb {
+    text-align: left;
+}
+
+.elementor-10 .elementor-element.elementor-element-9135deb .elementor-heading-title {
+    color: #0052FD;
+    font-family: "Pixefont", Sans-serif;
+    font-size: 1.2rem;
+    font-weight: 400;
+    text-transform: uppercase;
+}
+
+.elementor-10 .elementor-element.elementor-element-10644af {
+    --display: flex;
+    --flex-direction: row;
+    --container-widget-width: initial;
+    --container-widget-height: 100%;
+    --container-widget-flex-grow: 1;
+    --container-widget-align-self: stretch;
+    --flex-wrap-mobile: wrap;
+    --background-transition: 0.3s;
+    --padding-top: 5%;
+    --padding-bottom: 5%;
+    --padding-left: 5%;
+    --padding-right: 5%;
+}
+
+.elementor-10 .elementor-element.elementor-element-bdaaf12 {
+    --display: flex;
+    --flex-direction: column;
+    --container-widget-width: 100%;
+    --container-widget-height: initial;
+    --container-widget-flex-grow: 0;
+    --container-widget-align-self: initial;
+    --flex-wrap-mobile: wrap;
+    --background-transition: 0.3s;
+}
+
+.elementor-10 .elementor-element.elementor-element-b8bcba2 {
+    text-align: left;
+}
+
+.elementor-10 .elementor-element.elementor-element-b8bcba2 .elementor-heading-title {
+    color: #000000;
+    font-family: "Pixefont", Sans-serif;
+    font-size: 3rem;
+    font-weight: 400;
+    text-transform: uppercase;
+}
+
+.elementor-10 .elementor-element.elementor-element-de01ffb {
+    width: var( --container-widget-width, 95%);
+    max-width: 95%;
+    --container-widget-width: 95%;
+    --container-widget-flex-grow: 0;
+    color: #000000;
+    font-family: "Roboto", Sans-serif;
+    font-size: 30px;
+    font-weight: 300;
+    line-height: 31px;
+}
+
+.elementor-10 .elementor-element.elementor-element-de01ffb.elementor-element {
+    --align-self: flex-start;
+}
+
+.elementor-10 .elementor-element.elementor-element-ea0c4ff {
+    --display: flex;
+    --flex-direction: column;
+    --container-widget-width: 100%;
+    --container-widget-height: initial;
+    --container-widget-flex-grow: 0;
+    --container-widget-align-self: initial;
+    --flex-wrap-mobile: wrap;
+    --background-transition: 0.3s;
+    --padding-top: 5%;
+    --padding-bottom: 5%;
+    --padding-left: 5%;
+    --padding-right: 5%;
+}
+
+.elementor-10 .elementor-element.elementor-element-ea0c4ff:not(.elementor-motion-effects-element-type-background),
+.elementor-10 .elementor-element.elementor-element-ea0c4ff>.elementor-motion-effects-container>.elementor-motion-effects-layer {
+    background-color: #0052FD;
+}
+
+.elementor-10 .elementor-element.elementor-element-ea0c4ff,
+.elementor-10 .elementor-element.elementor-element-ea0c4ff::before {
+    --border-transition: 0.3s;
+}
+
+.elementor-10 .elementor-element.elementor-element-df07ca2 {
+    text-align: center;
+}
+
+.elementor-10 .elementor-element.elementor-element-df07ca2 .elementor-heading-title {
+    color: #FFFFFF;
+    font-family: "Pixefont", Sans-serif;
+    font-size: 1.2rem;
+    font-weight: 400;
+    line-height: 1.9rem;
+}
+
+.elementor-10 .elementor-element.elementor-element-6c2bc7b {
+    text-align: center;
+}
+
+.elementor-10 .elementor-element.elementor-element-6c2bc7b .elementor-heading-title {
+    color: #FFFFFF;
+    font-family: "Pixefont", Sans-serif;
+    font-size: 1.2rem;
+    font-weight: 400;
+    text-transform: uppercase;
+    line-height: 1.9rem;
+    letter-spacing: 3.3px;
+}
+
+.elementor-10 .elementor-element.elementor-element-f1098bc {
+    text-align: center;
+}
+
+.elementor-10 .elementor-element.elementor-element-f1098bc .elementor-heading-title {
+    color: #FFFFFF;
+    font-family: "Pixefont", Sans-serif;
+    font-size: 1.2rem;
+    font-weight: 400;
+    text-transform: uppercase;
+    line-height: 1.9rem;
+}
+
+@media(min-width:768px) {
+    .elementor-10 .elementor-element.elementor-element-ce00316 {
+        --width: 100%;
+    }
+    .elementor-10 .elementor-element.elementor-element-6c5d634 {
+        --width: 100%;
+    }
+    .elementor-10 .elementor-element.elementor-element-0842db4 {
+        --width: 15%;
+    }
+    .elementor-10 .elementor-element.elementor-element-08934f0 {
+        --width: 100%;
+    }
+    .elementor-10 .elementor-element.elementor-element-4cd33a5 {
+        --width: 20%;
+    }
+}
+
+@media(max-width:767px) {
+    .elementor-10 .elementor-element.elementor-element-191a851 {
+        --flex-direction: column;
+        --container-widget-width: calc( ( 1 - var( --container-widget-flex-grow)) * 100%);
+        --container-widget-height: initial;
+        --container-widget-flex-grow: 0;
+        --container-widget-align-self: initial;
+        --flex-wrap-mobile: wrap;
+        --justify-content: center;
+        --align-items: center;
+    }
+    .elementor-10 .elementor-element.elementor-element-a4d3809.elementor-element {
+        --align-self: center;
+    }
+    .elementor-10 .elementor-element.elementor-element-a4d3809 {
+        text-align: center;
+    }
+    .elementor-10 .elementor-element.elementor-element-ced33ee.elementor-element {
+        --align-self: center;
+    }
+    .elementor-10 .elementor-element.elementor-element-3c691df.elementor-element {
+        --align-self: center;
+    }
+    .elementor-10 .elementor-element.elementor-element-bdc59bc.elementor-element {
+        --align-self: center;
+    }
+    .elementor-10 .elementor-element.elementor-element-d13d4f1.elementor-element {
+        --align-self: center;
+    }
+    .elementor-10 .elementor-element.elementor-element-3b580d9 .elementor-widget-container {
+        text-align: center;
+    }
+    .elementor-10 .elementor-element.elementor-element-fca9f27>.elementor-widget-container {
+        --e-transform-translateX: -13%;
+        --e-transform-scale: 1.6;
+    }
+    .elementor-10 .elementor-element.elementor-element-08934f0 {
+        --padding-top: 0px;
+        --padding-bottom: 0px;
+        --padding-left: 0px;
+        --padding-right: 0px;
+    }
+    .elementor-10 .elementor-element.elementor-element-08934f0.e-con {
+        --order: -99999/* order start hack */
+        ;
+    }
+    .elementor-10 .elementor-element.elementor-element-93a66e7 img {
+        width: 52%;
+    }
+    .elementor-10 .elementor-element.elementor-element-f20347e {
+        --gap: 0px 0px;
+        --padding-top: 0px;
+        --padding-bottom: 0px;
+        --padding-left: 0px;
+        --padding-right: 0px;
+    }
+    .elementor-10 .elementor-element.elementor-element-21a01a3 .elementor-heading-title {
+        font-size: 4.2rem;
+        line-height: 3.4rem;
+    }
+    .elementor-10 .elementor-element.elementor-element-be83de6>.elementor-widget-container {
+        margin: 10% 0% 0% 0%;
+    }
+    .elementor-10 .elementor-element.elementor-element-6da7e61>.elementor-widget-container {
+        --e-transform-translateX: 0px;
+        --e-transform-scale: 1.3;
+    }
+    .elementor-10 .elementor-element.elementor-element-75e342d {
+        --margin-top: 15%;
+        --margin-bottom: 0%;
+        --margin-left: 0%;
+        --margin-right: 0%;
+        --padding-top: 0px;
+        --padding-bottom: 0px;
+        --padding-left: 0px;
+        --padding-right: 0px;
+    }
+    .elementor-10 .elementor-element.elementor-element-1053158 {
+        --padding-top: 0px;
+        --padding-bottom: 0px;
+        --padding-left: 0px;
+        --padding-right: 0px;
+    }
+    .elementor-10 .elementor-element.elementor-element-275551f {
+        --padding-top: 0px;
+        --padding-bottom: 0px;
+        --padding-left: 0px;
+        --padding-right: 0px;
+    }
+    .elementor-10 .elementor-element.elementor-element-0bfc7de .elementor-heading-title {
+        line-height: 2.2rem;
+    }
+    .elementor-10 .elementor-element.elementor-element-174c009 .elementor-heading-title {
+        line-height: 2.4rem;
+    }
+    .elementor-10 .elementor-element.elementor-element-b8bcba2 .elementor-heading-title {
+        line-height: 2.5rem;
+    }
+}
+
+/* Start custom CSS for heading, class: .elementor-element-23cb875 */
+
+.elementor-10 .elementor-element.elementor-element-23cb875 {
+    background: -webkit-linear-gradient(180deg, #0FC0FE, #A9DEE7);
+     !important;
+    -webkit-background-clip: text;
+     !important;
+    -webkit-text-fill-color: transparent;
+     !important;
+}
+
+/* End custom CSS */
+
+/* Start Custom Fonts CSS */
+
+@font-face {
+    font-family: 'Pixefont';
+    font-style: normal;
+    font-weight: normal;
+    font-display: auto;
+    src: url('https://keyboarddog.xyz/wp-content/uploads/2024/12/3e78a71183985908-s.p.ttf') format('truetype');
+}
+
+/* End Custom Fonts CSS */
